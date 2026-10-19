@@ -39,8 +39,8 @@ AI-powered full-stack app that builds day-by-day trip itineraries from your dest
 - API docs: https://travel-itinerary-planner-ce17.onrender.com/docs
 
 ## Screenshots
-![Form](Screenshot_2026-10-19_163923.png)
-![Itinerary](Screenshot_2026-10-19_163934.png)
-![Saved trips](Screenshot_2026-10-19_163946.png)
-![Supabase table](Screenshot_2026-10-19_161528.png)
-![API docs](Screenshot_2026-10-19_161620.png)
+![Form](Screenshot%202026-10-19%20163923.png)
+![Itinerary](Screenshot%202026-10-19%20163934.png)
+![Saved trips](Screenshot%202026-10-19%20163946.png)
+![Supabase table](Screenshot%202026-10-19%20161528.png)
+![API docs](Screenshot%202026-10-19%20161620.png)
