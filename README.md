@@ -34,5 +34,13 @@ AI-powered full-stack app that builds day-by-day trip itineraries from your dest
 - **Render (backend):** root directory `backend`, build `pip install -r requirements.txt`, start `uvicorn main:app --host 0.0.0.0 --port $PORT`. Add the 4 env vars from `.env.example`.
 - **Vercel (frontend):** root directory `frontend`, add `VITE_API_URL` = your Render URL.
 
+## Live demo
+- App: https://travel-itinerary-planner-beryl.vercel.app
+- API docs: https://travel-itinerary-planner-ce17.onrender.com/docs
+
 ## Screenshots
-Add screenshots of the form, a generated itinerary, and the saved trips list here.
+![Form](Screenshot_2026-10-19_163923.png)
+![Itinerary](Screenshot_2026-10-19_163934.png)
+![Saved trips](Screenshot_2026-10-19_163946.png)
+![Supabase table](Screenshot_2026-10-19_161528.png)
+![API docs](Screenshot_2026-10-19_161620.png)
